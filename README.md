@@ -1,2 +1,3 @@
-# bashcourse
-Project from Coursera's Bash Course
+BASH UNIX Course
+2021-09-08.08:43:1631108604
+24
